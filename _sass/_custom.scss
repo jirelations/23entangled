@@ -15,6 +15,18 @@ article h2 {
  * REVEAL SLIDE THEME CUSTOMIZATION
  *********************************************/
 
+ /* Site menu on top  */
+
+ .reveal-viewport .site-header {
+    background-color: transparent;
+    box-shadow: none;
+    margin: auto;
+    position: 0 0 0 0; /* position being modified by JS? Need to set L & R to 0 */
+    width: 960px;
+    /* Will also need to set top margin in Reveal.initialize, e.g. to 0.15 (but not sure how to set margins for individual directions) */
+ }
+
+
  /* Translucent box to highlight the slide content 
  area and make it readable on a photo background.  */
  .slides {
