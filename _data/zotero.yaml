@@ -324,6 +324,28 @@ references:
     https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA148&printsec=frontcover
   volume: '4'
 
+- id: leckerConstitutionMedina2012a
+  accessed:
+    - year: 2024
+      month: 1
+      day: 8
+  author:
+    - family: Lecker
+      given: Michael
+  citation-key: leckerConstitutionMedina2012a
+  container-title: Encyclopaedia of Islam, THREE
+  issued:
+    - year: 2012
+      month: 6
+      day: 1
+  language: en
+  publisher: Brill
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Constitution of Medina
+  type: chapter
+  URL: >-
+    https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/constitution-of-medina-COM_24415?s.num=0&s.f.s2_parent=s.f.cluster.Encyclopaedia+of+Islam&s.q=constitution+medina
+
 - id: marcusBirkatHaMinimRevisited2009
   abstract: >-
     J. Louis Martyn and others have argued that a decision by late first-century
