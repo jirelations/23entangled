@@ -37,6 +37,23 @@ references:
   URL: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5462/
   volume: '9'
 
+- id: AuthenticatingHadithHistory
+  abstract: >-
+    How do we know that Hadith is credible? This paper discusses the origins,
+    mechanics, and development of Sunni hadith criticism, from the perspective
+    of Muslim scholarship.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 15
+  citation-key: AuthenticatingHadithHistory
+  container-title: Yaqeen Institute for Islamic Research
+  language: en
+  title: Authenticating Hadith and the History of Hadith Criticism
+  type: webpage
+  URL: >-
+    https://yaqeeninstitute.org/read/paper/authenticating-hadith-and-the-history-of-hadith-criticism
+
 - id: beckingBoundariesIsraeliteMonotheism2008a
   accessed:
     - year: 2023
@@ -478,6 +495,29 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
 
+- id: motzkiHadithOriginsDevelopments2004
+  accessed:
+    - year: 2024
+      month: 1
+      day: 15
+  author:
+    - family: Motzki
+      given: Harald
+    - family: Conrad
+      given: Professor Lawrence I.
+  citation-key: motzkiHadithOriginsDevelopments2004
+  event-place: Florence, UNITED KINGDOM
+  ISBN: 978-1-351-93182-3
+  issued:
+    - year: 2004
+  publisher: Taylor & Francis Group
+  publisher-place: Florence, UNITED KINGDOM
+  source: ProQuest Ebook Central
+  title: 'Hadith: Origins and Developments'
+  title-short: Hadith
+  type: book
+  URL: http://ebookcentral.proquest.com/lib/senc/detail.action?docID=4758744
+
 - id: pelikanWhoseBibleIt2006a
   abstract: >-
     Jaroslav Pelikan, widely regarded as one of the most distinguished
@@ -583,6 +623,24 @@ references:
   type: chapter
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+
+- id: schoelerOralTorahHadith2004
+  author:
+    - family: Schoeler
+      given: Gregor
+  citation-key: schoelerOralTorahHadith2004
+  container-title: 'Hadith: Origins and Developments'
+  event-place: Florence, UNITED KINGDOM
+  ISBN: 978-1-351-93182-3
+  issued:
+    - year: 2004
+  language: en
+  publisher: Taylor & Francis Group
+  publisher-place: Florence, UNITED KINGDOM
+  source: Zotero
+  title: 'Oral torah and ḥadīth: Transmission, prohibition of writing, redaction'
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/senc/detail.action?docID=4758744
 
 - id: schwartzHistoriographyJewsTalmudic2004a
   abstract: >-
