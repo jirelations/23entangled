@@ -31,4 +31,9 @@
 		],
 		"description": "Add block citation with class r-fit-text"
 	}
+	"fit text in slide": {
+		"prefix": "fit",
+		"body": ["{: .r-fit-text}"],
+		"description": "Use the r-fit-text class from reveal.js to fit the text content within the slide"
+	}
 }
