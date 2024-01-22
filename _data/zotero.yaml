@@ -200,6 +200,28 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
 
+- id: dotanRelativeChronologyHebrew1981
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Dotan
+      given: Aron
+  citation-key: dotanRelativeChronologyHebrew1981
+  container-title: Proceedings of the American Academy for Jewish Research
+  DOI: 10.2307/3622434
+  ISSN: 0065-6798
+  issued:
+    - year: 1981
+  page: 87-99
+  publisher: American Academy for Jewish Research
+  source: JSTOR
+  title: The Relative Chronology of Hebrew Vocalization and Accentuation
+  type: article-journal
+  URL: https://www.jstor.org/stable/3622434
+  volume: '48'
+
 - id: gnuseNoOtherGods1997a
   abstract: >-
     This is the first full-scale assessment of the theological, social and
