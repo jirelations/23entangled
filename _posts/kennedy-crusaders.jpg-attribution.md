@@ -1,0 +1,1 @@
+Kennedy, Hugh, “The Fertile Crescent in the Age of the Crusades circa 534/1140”, in: Historical Atlas of Islam, Edited by: Hugh Kennedy. Consulted online on 8 January 2024 <http://dx.doi.org./10.1163/1573-3912_hai_HAI_11>

@@ -86,6 +86,59 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D467608
 
+- id: bosworthSaldjukids2012
+  accessed:
+    - year: 2024
+      month: 1
+      day: 29
+  author:
+    - family: Bosworth
+      given: C. E.
+    - family: Hillenbrand
+      given: R.
+    - family: Rogers
+      given: J. M.
+    - family: Blois
+      given: F. C.
+      dropping-particle: de
+    - family: Darley-Doran
+      given: R. E.
+  citation-key: bosworthSaldjukids2012
+  container-title: Encyclopaedia of Islam, Second Edition
+  issued:
+    - year: 2012
+      month: 4
+      day: 24
+  language: en
+  publisher: Brill
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Sald̲j̲ūḳids
+  type: chapter
+  URL: >-
+    https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/saldjukids-COM_0984?s.num=8&s.f.s2_parent=s.f.cluster.Encyclopaedia+of+Islam&s.q=saljuk
+
+- id: cahenBuwayhidsBuyids2012
+  accessed:
+    - year: 2024
+      month: 1
+      day: 29
+  author:
+    - family: Cahen
+      given: Cl
+  citation-key: cahenBuwayhidsBuyids2012
+  container-title: Encyclopaedia of Islam, Second Edition
+  issued:
+    - year: 2012
+      month: 4
+      day: 24
+  language: en
+  publisher: Brill
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Buwayhids or Būyids
+  type: chapter
+  URL: >-
+    https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/buwayhids-or-buyids-SIM_1569
+
 - id: chatelioncounetDivineMessiahEarly2008a
   accessed:
     - year: 2023
@@ -332,6 +385,32 @@ references:
   URL: >-
     https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0006
 
+- id: lamdanPalestine2010
+  accessed:
+    - year: 2024
+      month: 1
+      day: 25
+  author:
+    - family: Lamdan
+      given: Ruth
+    - family: Erder
+      given: Yoram
+    - family: Drory
+      given: Joseph
+  citation-key: lamdanPalestine2010
+  container-title: Encyclopedia of Jews in the Islamic World
+  issued:
+    - year: 2010
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Palestine
+  type: chapter
+  URL: >-
+    https://referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de/entries/encyclopedia-of-jews-in-the-islamic-world/palestine-COM_0017260#i1000017260267
+
 - id: langMonotheismus1998a
   author:
     - family: Lang
@@ -384,6 +463,28 @@ references:
   type: chapter
   URL: >-
     https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/constitution-of-medina-COM_24415?s.num=0&s.f.s2_parent=s.f.cluster.Encyclopaedia+of+Islam&s.q=constitution+medina
+
+- id: lowinConstitutionMedina2010
+  accessed:
+    - year: 2024
+      month: 1
+      day: 25
+  author:
+    - family: Lowin
+      given: Shari
+  citation-key: lowinConstitutionMedina2010
+  container-title: Encyclopedia of Jews in the Islamic World
+  issued:
+    - year: 2010
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Constitution of Medina
+  type: chapter
+  URL: >-
+    https://referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de/entries/encyclopedia-of-jews-in-the-islamic-world/constitution-of-medina-COM_0005750
 
 - id: marcusBirkatHaMinimRevisited2009
   abstract: >-
@@ -517,6 +618,55 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3414053
 
+- id: meddebChristendom2013a
+  accessed:
+    - year: 2024
+      month: 1
+      day: 29
+  citation-key: meddebChristendom2013a
+  container-title: A History of Jewish-Muslim Relations
+  DOI: 10.1515/9781400849130-011
+  editor:
+    - family: Meddeb
+      given: Abdelwahab
+    - family: Stora
+      given: Benjamin
+  event-place: Princeton
+  ISBN: 978-1-4008-4913-0
+  issued:
+    - year: 2013
+      month: 12
+      day: 31
+  language: en
+  page: 145-162
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: DOI.org (Crossref)
+  title: In Christendom
+  type: chapter
+  URL: >-
+    https://lbsopac.rz.uni-frankfurt.de/DB=30/CMD?ACT=SRCHA&IKT=12&REC=2&TRM=210502010
+
+- id: meddebHistoryJewishMuslimRelations2013b
+  author:
+    - family: Meddeb
+      given: Abdelwahab
+    - family: Stora
+      given: Benjamin
+  citation-key: meddebHistoryJewishMuslimRelations2013b
+  event-place: Princeton
+  ISBN: 978-1-4008-4913-0
+  issued:
+    - year: 2013
+  number-of-pages: 1 Online-Ressource (1153 pages)
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: 'A History of Jewish-Muslim Relations : From the Origins to the Present Day'
+  title-short: A History of Jewish-Muslim Relations
+  type: book
+  URL: >-
+    https://lbsopac.rz.uni-frankfurt.de/DB=30/CMD?ACT=SRCHA&IKT=12&REC=2&TRM=210502010
+
 - id: motzkiHadithOriginsDevelopments2004
   accessed:
     - year: 2024
@@ -616,6 +766,24 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D3155622
+
+- id: rustowJewsMuslimsEastern2013
+  author:
+    - family: Rustow
+      given: Marina
+  citation-key: rustowJewsMuslimsEastern2013
+  container-title: 'A History of Jewish-Muslim Relations : From the Origins to the Present Day'
+  event-place: Princeton
+  ISBN: 978-1-4008-4913-0
+  issued:
+    - year: 2013
+  language: en
+  page: 75-144
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: Zotero
+  title: Jews and Muslims in the Eastern Islamic World
+  type: chapter
 
 - id: schmidQuestGodMonotheistic2011a
   accessed:
@@ -734,6 +902,26 @@ references:
   URL: >-
     https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/political-geography-of-rabbinic-texts/BB835D094EFADC8F100B061D8A7B7C6A
 
+- id: stillmanEncyclopediaJewsIslamic2010
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: stillmanEncyclopediaJewsIslamic2010
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Encyclopedia of Jews in the Islamic World
+  type: book
+  URL: >-
+    https://referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de/browse/encyclopedia-of-jews-in-the-islamic-world
+
 - id: stroumsaIdeaSemiticMonotheism2021a
   abstract: |-
     In this work, a sequel to my
@@ -807,6 +995,28 @@ references:
   citation-key: Tags
   title: Tags
   type: document
+
+- id: thorauCrusades2014
+  accessed:
+    - year: 2024
+      month: 1
+      day: 29
+  author:
+    - family: Thorau
+      given: Peter
+  citation-key: thorauCrusades2014
+  container-title: Encyclopaedia of Islam, THREE
+  issued:
+    - year: 2014
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Crusades
+  type: chapter
+  URL: >-
+    https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/crusades-COM_24420?s.num=1&s.f.s2_parent=s.f.cluster.Encyclopaedia+of+Islam&s.q=crusades
 
 - id: triggMonotheismReligiousDiversity2020a
   abstract: >-
