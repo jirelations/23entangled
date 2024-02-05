@@ -1045,4 +1045,26 @@ references:
   type: book
   URL: >-
     https://www.cambridge.org/core/elements/monotheism-and-religious-diversity/478BBA8657D04822D85B4C78DCF093AA
+
+- id: williamsJewsGreeksRomans1998
+  abstract: >-
+    This collection of freshly translated texts is designed to introduce those
+    interested in Graeco-Roman and Jewish culture to the realities of Jewish
+    life outside Israel between 323 BC and the middle of the 5th century AD.
+  author:
+    - family: Williams
+      given: Margaret H.
+    - family: Williams
+      given: Margaret
+  citation-key: williamsJewsGreeksRomans1998
+  ISBN: 978-0-7156-2811-9
+  issued:
+    - year: 1998
+  language: en
+  number-of-pages: '262'
+  publisher: Duckworth
+  source: Google Books
+  title: 'The Jews Among the Greeks and Romans: A Diasporan Sourcebook'
+  title-short: The Jews Among the Greeks and Romans
+  type: book
 ...
