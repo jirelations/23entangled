@@ -464,6 +464,45 @@ references:
   URL: >-
     https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/constitution-of-medina-COM_24415?s.num=0&s.f.s2_parent=s.f.cluster.Encyclopaedia+of+Islam&s.q=constitution+medina
 
+- id: lindstedtMuhammadHisFollowers2024
+  abstract: >-
+    "This book surveys and analyzes changes in religious groups and identities
+    in late antique Arabia, ca. 300--700 CE. It engages with contemporary and
+    material evidence: for example, inscriptions, archaeological remains, Arabic
+    poetry, the Qur'an, and the so-called Constitution of Medina. Also, it
+    suggests ways to deal with the later Arabic historiographical and other
+    literary texts. The issue of social identities and their processes are
+    central to the study. For instance, how did Arabian ethnic and religious
+    identities intersect on the eve of Islam? The book suggests that the changes
+    in social groups were more piecemeal than previously thought"-- Provided by
+    publisher
+  accessed:
+    - year: 2024
+      month: 3
+      day: 23
+  author:
+    - family: Lindstedt
+      given: Ilkka
+  citation-key: lindstedtMuhammadHisFollowers2024
+  collection-title: Islamic history and civilization
+  event-place: Leiden
+  ISBN: 978-90-04-68713-4
+  issued:
+    - year: 2024
+  language: eng
+  note: 'OCLC: 1401659779'
+  number-of-pages: '372'
+  publisher: Brill
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: >-
+    Muḥammad and his followers in context: the religious map of late antique
+    Arabia
+  title-short: Muḥammad and his followers in context
+  type: book
+  URL: >-
+    https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=3749786
+
 - id: lowinConstitutionMedina2010
   accessed:
     - year: 2024
@@ -586,6 +625,44 @@ references:
   source: Google Books
   title: 'The Story of the Qur''an: Its History and Place in Muslim Life'
   type: book
+
+- id: mcauliffeCambridgeCompanionQur2006a
+  abstract: >-
+    As the living scriptural heritage of more than a billion people, the Qur'an
+    (Koran) speaks with a powerful voice. Just as other scriptural religions,
+    Islam has produced a long tradition of interpretation for its holy book.
+    Nevertheless, efforts to introduce the Qur'an and its intellectual heritage
+    to English-speaking audiences have been hampered by the lack of available
+    resources. The Cambridge Companion to the Qur'an seeks to remedy that
+    situation. In a discerning summation of the field, Jane McAuliffe brings
+    together an international team of scholars to explain its complexities.
+    Comprising fourteen chapters, each devoted to a topic of central importance,
+    the book is rich in historical, linguistic and literary detail, while also
+    reflecting the influence of other disciplines. For both the university
+    student and the general reader, The Cambridge Companion to the Qur'an
+    provides a fascinating entrée to a text that has shaped the lives of
+    millions for centuries.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  citation-key: mcauliffeCambridgeCompanionQur2006a
+  collection-title: Cambridge Companions to Religion
+  DOI: 10.1017/CCOL0521831601
+  editor:
+    - family: McAuliffe
+      given: Jane Dammen
+  event-place: Cambridge
+  ISBN: 978-0-521-83160-4
+  issued:
+    - year: 2006
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The Cambridge Companion to the Qur'ān
+  type: book
+  URL: >-
+    https://www.cambridge.org/core/books/cambridge-companion-to-the-quran/C396A0E0B9B95A6BE0B560EE0949E4C4
 
 - id: mcgrathOnlyTrueGod2009a
   abstract: >-
